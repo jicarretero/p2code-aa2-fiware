@@ -1,0 +1,29 @@
+{
+  "id": "ngsild:urn:deviceProfile:f8d238ae-1c9f-46c2-b550-97611b2e063b",
+  "type": "https://p2code-project.eu/aa2/uc1",
+  "deviceName": {
+    "type": "Property",
+    "value": "Test-Modbus-device"
+  },
+  "profileName": {
+    "type": "Propery",
+    "value": "MDD-ETH"
+  },
+  "sourceName": {
+    "type": "Propery",
+    "value": "Poll-Modubs-000"
+  },
+  "origin": {
+    "type": "Propery",
+    "value": 1752590782713848800
+  },
+  "readings": {
+    "type": "Relationship",
+    "object": [
+      "ngsild:urn:reading:test-modbus-device:b3534346-a4b4-4bb7-88bc-0193b12878ac",
+      "ngsild:urn:reading:test-modbus-device:f1aa2f7a-7eae-40d5-9b6a-ed8ab60b018c",
+      "ngsild:urn:reading:test-modbus-device:79af812e-f41c-4f2d-95b8-adb7d9ffa9e1",
+      "ngsild:urn:reading:test-modbus-device:ca58834a-7f40-4c4a-bec5-b111c68c7ca9"
+    ]
+  }
+}

@@ -1,0 +1,19 @@
+[mqtt]
+mqtt_url="tcp://localhost:1883"
+mqtt_user=""
+mqtt_password=""
+mqtt_topic="arrebufo"
+
+[brokerld]
+url="http://localhost:1026"
+Context='<https://admtools.lab.fiware.org/context/json-context.jsonld>; rel="http://www.w3.org/ns/json-ld#context"; type="application/ld+json"'
+wallet_type=""
+wallet_address=""
+wallet_token=""
+tenant=""
+idm_wallet_directory="/cert"
+idm_wallet_helper="/temp/helper.sh"
+use_idm=true
+idm_service_url=http://localhost:1044
+idm_scope=default
+idm_client_id=data-service

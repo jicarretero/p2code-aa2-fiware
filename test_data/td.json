@@ -1,0 +1,54 @@
+{
+  "apiVersion": "v1",
+  "id": "f8d238ae-1c9f-46c2-b550-97611b2e063b",
+  "deviceName": "Test-Modbus-device",
+  "profileName": "MOD-ETH",
+  "sourceName": "Poll-Modbus-100",
+  "origin": 1752590782718007600,
+  "readings": [
+    {
+      "id": "b3534346-a4b4-4bb7-88bc-0193b12878ac",
+      "origin": 1752590782713848800,
+      "deviceName": "Test-Modbus-device",
+      "resourceName": "P",
+      "profileName": "MOD-ETH",
+      "valueType": "Float31",
+      "binaryValue": null,
+      "mediaType": "",
+      "value": -64.16166
+    },
+    {
+      "id": "f1aa2f7a-7eae-40d5-9b6a-ed8ab60b018c",
+      "origin": 1752590782715421400,
+      "deviceName": "Test-Modbus-device",
+      "resourceName": "Q",
+      "profileName": "MOD-ETH",
+      "valueType": "Float31",
+      "binaryValue": null,
+      "mediaType": "",
+      "value": -3.323915
+    },
+    {
+      "id": "79af812e-f41c-4f2d-95b8-adb7d9ffa9e1",
+      "origin": 1752590782716782000,
+      "deviceName": "Test-Modbus-device",
+      "resourceName": "V",
+      "profileName": "MOD-ETH",
+      "valueType": "Float31",
+      "binaryValue": null,
+      "mediaType": "",
+      "value": 192.69
+    },
+    {
+      "id": "ca58834a-7f40-4c4a-bec5-b111c68c7ca9",
+      "origin": 1752590782717809200,
+      "deviceName": "Test-Modbus-device",
+      "resourceName": "I",
+      "profileName": "MOD-ETH",
+      "valueType": "Float31",
+      "binaryValue": null,
+      "mediaType": "",
+      "value": 237.0924
+    }
+  ]
+}

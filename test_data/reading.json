@@ -1,0 +1,36 @@
+{
+  "id": "ngsild:urn:reading:b3534346-a4b4-4bb7-88bc-0193b12878ac",
+  "type": "https://p2code-project.eu/aa2/uc1/reading",
+  "origin": {
+    "type": "Property",
+    "value": 1752590782713848800
+  },
+  "deviceName": {
+    "type": "Property",
+    "value": "Test-Modbus-device"
+  },
+  "resourceName": {
+    "type": "Property",
+    "value": "P"
+  },
+  "profileName": {
+    "type": "Property",
+    "value": "MDD-ETH"
+  },
+  "valueType": {
+    "type": "Property",
+    "value": "Float31"
+  },
+  "binaryValue": {
+    "type": "Property",
+    "value": null
+  },
+  "mediaType": {
+    "type": "Property",
+    "value": ""
+  },
+  "value": {
+    "type": "Property",
+    "value": -64.16166
+  }
+}
